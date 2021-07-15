@@ -1,0 +1,3 @@
+[submodule "pyQSC-clone"]
+	path = pyQSC-clone
+	url = https://github.com/BradenBuck/Tr3D-Coding-Suite.git
